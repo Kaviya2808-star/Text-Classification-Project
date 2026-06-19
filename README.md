@@ -73,4 +73,4 @@ print("Accuracy:", accuracy)
 The model successfully classifies text documents into their respective categories and provides prediction accuracy.
 
 ## Author
-Ramani
+Kaviya M
